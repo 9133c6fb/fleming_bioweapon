@@ -7,11 +7,18 @@
 - **Github ID** Registration: https://github.com
 - Share your **Github ID** with the team
 
-### Github software Setup
+### Github software 
 
-- Github management Software: https://www.gitkraken.com/git-client
+**VS code**
+- Software Installation: https://code.visualstudio.com/Download
+- Git in VS Code Tutorial: https://www.youtube.com/watch?v=bK7dr7eG6KM
+
+**Gitkraken**
+- Software Installation: https://www.gitkraken.com/git-client
 - Gitkraken Tutorial: https://www.youtube.com/watch?v=q4CQBuZ4IGo
-- Use GitKraken with your **Github ID** and follow the **Project Issues** assigned to you
+
+**Usage**
+- Use GitKraken or VS Code with your **Github ID** and follow the **Project Issues** assigned to you
 - Keep a **Github command list** :https://education.github.com/git-cheat-sheet-education.pdf
 
 ## Video Source
