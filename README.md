@@ -5,7 +5,7 @@
 ### Github User Setup
 
 - **Github ID** Registration: https://github.com/
-- Share your github ID with the team.
+- Share your **Github ID** with the team
 
 ### Github software Setup
 
@@ -17,7 +17,7 @@
 ## Video Source
 
 - Download the video Source file:  https://rumble.com/v1dxs29--dr.-richard-m.-fleming-phdmdjd-covid-19-is-a-manmade-bio-weapon.html 
-- Open two subtitle files together with the downloaded video file 
+- Edit two subtitle files together with the downloaded video file 
 
 ## Subtitle Editing
 
