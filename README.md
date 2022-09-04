@@ -11,9 +11,8 @@
 
 - Github management Software: https://www.gitkraken.com/git-client
 - Gitkraken Tutorial: https://www.youtube.com/watch?v=q4CQBuZ4IGo
-
 - Use GitKraken with your **Github ID** and follow the **Project Issues** assigned to you.
-
+- Keep a **Github command list** :https://education.github.com/git-cheat-sheet-education.pdf
 
 ## Video Source
 
