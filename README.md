@@ -4,7 +4,7 @@
 
 ### Github User Setup
 
-- **Github ID** Registration: https://github.com/
+- **Github ID** Registration: https://github.com
 - Share your **Github ID** with the team
 
 ### Github software Setup
