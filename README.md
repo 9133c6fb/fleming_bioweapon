@@ -36,7 +36,7 @@
 
 ## Subtitle Editing Software 
 
-- Windows: https://subtitlecomposer.kde.org/download.html
+- Windows: 
 - Mac: 
 - Linux: Gnome Subtitle http://www.gnomesubtitles.org 
 
